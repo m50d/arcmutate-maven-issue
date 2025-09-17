@@ -1,0 +1,7 @@
+#Licence file for arcmutate mutation testing https://www.arcmutate.com
+#Wed Sep 17 14:27:50 BST 2025
+expires=17/09/2028
+keyVersion=1
+packages=com.example.*
+signature=fgQhkO2aUMfVILZAKpjfQRW6Ed/vBAgGcre4Lnm/7kqKqCbLbAgn2LgCVqei6R6134pFRwgHlZrkWpvGrfDrl6S+deEMlHZDBj4a/R+vdp6WDN/b/Qew6K/DA6LTRG82eyEcxC7MaDprD+vNj+LSvpXsZ6mDAXZnB3SNQecNvQA\=
+type=EVALUATION
