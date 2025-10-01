@@ -90,12 +90,8 @@
                             </excludedGroups>
                             <verbose>true</verbose>
                             <mutators>
-                                <mutator>STRONGER</mutator>
-                                <mutator>EXTENDED</mutator>
+                                <mutator>DEFAULTS</mutator>
                             </mutators>
-                            <features>
-                                <feature>+exclusionscan</feature>
-                            </features>
                         </configuration>
                         <dependencies>
                             <dependency>
