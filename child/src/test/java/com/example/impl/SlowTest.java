@@ -9,7 +9,7 @@ import org.junit.experimental.categories.Category;
 import com.example.categories.Marker;
 
 @Category(Marker.class)
-public class SlowTest {
+public class SlowTest extends SlowTestBase {
     final Logic underTest = new Logic();
 
     @Test
